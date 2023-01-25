@@ -8,7 +8,7 @@ body {
     margin-left: 10rem;
     width: 10%;
     border-radius: 4px;
-    background: red;
+    background: pink;
     font-size: 3rem;
     min-width: 80rem;
 }
@@ -18,7 +18,8 @@ body {
 }
 
 #question {
-    margin-left: 330px;
+    margin-left: 150px;
+    font-size: 30px;
 }
 
 .choice-container:hover {
