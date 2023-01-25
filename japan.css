@@ -17,6 +17,10 @@ body {
     margin-top: 100px;    
 }
 
+#question {
+    margin-left: 330px;
+}
+
 .choice-container:hover {
     cursor: pointer;
     box-shadow: 0 0.4rem 1.4rem 0 blue;
