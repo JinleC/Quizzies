@@ -4,13 +4,17 @@ body {
 
 .choice-container {
     display: flex;
-    margin-bottom: 0.8rem;
-    margin-left: 8rem;
+    margin-bottom: 1.8rem;
+    margin-left: 10rem;
     width: 10%;
     border-radius: 4px;
     background: red;
     font-size: 3rem;
     min-width: 80rem;
+}
+
+#container {
+    margin-top: 100px;    
 }
 
 .choice-container:hover {
@@ -45,19 +49,30 @@ body {
 }
 
 .hud-prefix {
-    text-align: center;
     font-size: 2rem;
+    margin-top: 10rem;
+    margin-left: 250px;
+    text-align: center;
+}
+
+.hud-prefix2 {
+    font-size: 2rem;
+    margin-top: 12rem;
+    margin-right: 100px;
+    text-align: center;
 }
 
 .hud-main-text {
     text-align: center;
+    margin-right: 100px;
 }
 
 #progressBar {
-    width: 20rem;
+    width: 150rem;
     height: 3rem;
     border: 0.2rem solid green;
-    margin-top: 2rem;
+    margin-top: 3rem;
+    margin-left: 250px;
     border-radius: 50px;
     overflow: hidden; 
 }
@@ -70,4 +85,9 @@ body {
     .choice-container {
         min-width: 40rem;
     }
+}
+
+.image {
+    margin-left: 1000px;
+    margin-top: -450px;
 }

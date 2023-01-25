@@ -43,10 +43,58 @@ let questions = [
         choice4: "0",
         answer: 4,
     },
+    {
+        question: "Hoeveel is 1-1?",
+        choice1: "2",
+        choice2: "3",
+        choice3: "22",
+        choice4: "0",
+        answer: 4,
+    },
+    {
+        question: "Hoeveel is 1-1?",
+        choice1: "2",
+        choice2: "3",
+        choice3: "22",
+        choice4: "0",
+        answer: 4,
+    },
+    {
+        question: "Hoeveel is 1-1?",
+        choice1: "2",
+        choice2: "3",
+        choice3: "22",
+        choice4: "0",
+        answer: 4,
+    },
+    {
+        question: "Hoeveel is 1-1?",
+        choice1: "2",
+        choice2: "3",
+        choice3: "22",
+        choice4: "0",
+        answer: 4,
+    },
+    {
+        question: "Hoeveel is 1-1?",
+        choice1: "2",
+        choice2: "3",
+        choice3: "22",
+        choice4: "0",
+        answer: 4,
+    },
+    {
+        question: "Hoeveel is 1-1?",
+        choice1: "2",
+        choice2: "3",
+        choice3: "22",
+        choice4: "0",
+        answer: 4,
+    },
 ]
 
 const SCORE_POINTS = 100
-const MAX_QUESTIONS = 4
+const MAX_QUESTIONS = 10
 
 startGame = () => {
     questionCounter = -1
@@ -59,7 +107,7 @@ getNewQuestion = () => {
     if(availableQuestions.length === 0 || questionCounter > MAX_QUESTIONS){
         localStorage.setItem('mostRecentScore', score)
         
-        return window.location.assign('/end.html')
+        return window.location.assign('end.html')
     }
 
     questionCounter++
