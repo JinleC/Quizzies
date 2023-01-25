@@ -1,5 +1,5 @@
 :root {
-    background-color: rgb(29, 26, 26)
+    background-color: rgb(47, 41, 41)
 }
 
 * {
@@ -37,7 +37,7 @@ h2 {
 .homeimg {
     width: 100%;
     padding-bottom: 3rem;
-    border-radius: 5px;
+    border-radius: 15px;
    
 }
 
