@@ -2,6 +2,7 @@ const username = document.querySelector('#username')
 const saveScoreBtn = document.querySelector('#saveScoreBtn')
 const finalScore = document.querySelector('#finalScore')
 const mostRecentScore = localStorage.getItem('mostRecentScore')
+const btn1 = document.getElementById('saveScoreBtn');
 
 const highScores = JSON.parse(localStorage.getItem('highScores')) || []
 
@@ -34,3 +35,7 @@ saveHighScore = e => {
 
     
 }
+
+btn1.addEventListener('click', (event) => {
+    window.location.assign('./highscoresAnime.html')
+});
