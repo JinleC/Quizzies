@@ -18,7 +18,11 @@ let questions = [
         choice3: "South Korea",
         choice4: "Taiwan",
         answer: 1,
+<<<<<<< Updated upstream
         imgSrc: "./media/nintendomedia/q1nintendo.jpeg",
+=======
+        imgSrc: "./media/Nintendo Media/q1nintendo.jpeg",
+>>>>>>> Stashed changes
     },
     {
         question: "Who is the main character in the Legends of Zelda?",
@@ -27,7 +31,11 @@ let questions = [
         choice3: "Samus",
         choice4: "Kirby",
         answer: 1,
+<<<<<<< Updated upstream
         imgSrc: "./media/nintendomedia/q2nintendo.jpeg",
+=======
+        imgSrc: "./media/Nintendo Media/q2nintendo.jpeg",
+>>>>>>> Stashed changes
     },
     {
         question: "Who is not a playable character in Super Smash Bros?",
@@ -36,7 +44,11 @@ let questions = [
         choice3: "Steve",
         choice4: "Sonic",
         answer: 2,
+<<<<<<< Updated upstream
         imgSrc: "./media/nintendomedia/q3nintendo.webp",
+=======
+        imgSrc: "./media/Nintendo Media/q3nintendo.webp",
+>>>>>>> Stashed changes
     },
     {
         question: "Which of these is not a Nintendo console?",
@@ -45,7 +57,11 @@ let questions = [
         choice3: "Wii U",
         choice4: "Gameboy",
         answer: 2,
+<<<<<<< Updated upstream
         imgSrc: "./media/nintendomedia/nintendo.jpeg",
+=======
+        imgSrc: "./media/Nintendo Media/nintendo.jpeg",
+>>>>>>> Stashed changes
     },
     {
         question: "What is the name of the main character in the Mario series?",
@@ -54,7 +70,11 @@ let questions = [
         choice3: "Luigi",
         choice4: "Peach",
         answer: 2,
+<<<<<<< Updated upstream
         imgSrc: "./media/nintendomedia/q5nintendo.jpeg",
+=======
+        imgSrc: "./media/Nintendo Media/q5nintendo.jpeg",
+>>>>>>> Stashed changes
     },
     {
         question: "When was Nintendo founded?",
@@ -63,7 +83,11 @@ let questions = [
         choice3: "1889",
         choice4: "1953",
         answer: 3,
+<<<<<<< Updated upstream
         imgSrc: "./media/nintendomedia/q6nintendo.webp",
+=======
+        imgSrc: "./media/Nintendo Media/q6nintendo.webp",
+>>>>>>> Stashed changes
     },
     {
         question: "What did Nintendo originally make?",
@@ -72,7 +96,11 @@ let questions = [
         choice3: "Playing Cards",
         choice4: "Toys",
         answer: 3,
+<<<<<<< Updated upstream
         imgSrc: "./media/nintendomedia/q9nintendo.webp",
+=======
+        imgSrc: "./media/Nintendo Media/q9nintendo.webp",
+>>>>>>> Stashed changes
     },
     {
         question: "How many Nintendo Switch consoles have been sold?",
@@ -81,7 +109,11 @@ let questions = [
         choice3: "128.74 million",
         choice4: "118.99 million",
         answer: 4,
+<<<<<<< Updated upstream
         imgSrc: "./media/nintendomedia/q7nintendo.jpeg",
+=======
+        imgSrc: "./media/Nintendo Media/q7nintendo.jpeg",
+>>>>>>> Stashed changes
     },
     {
         question: "How many employees does Nintendo have(2020)?",
@@ -90,7 +122,11 @@ let questions = [
         choice3: "6.100",
         choice4: "6.200",
         answer: 4,
+<<<<<<< Updated upstream
         imgSrc: "./media/nintendomedia/q8nintendo.jpeg",
+=======
+        imgSrc: "./media/Nintendo Media/q8nintendo.jpeg",
+>>>>>>> Stashed changes
     },
     {
         question: "How much is Nintendo worth?",
@@ -99,7 +135,11 @@ let questions = [
         choice3: "7.20 Trillion Yen",
         choice4: "7.25 Trillion Yen",
         answer: 4,
+<<<<<<< Updated upstream
         imgSrc: "./media/nintendomedia/q10nintendo.jpeg",
+=======
+        imgSrc: "./media/Nintendo Media/q10nintendo.jpeg",
+>>>>>>> Stashed changes
     },
 ]
 
