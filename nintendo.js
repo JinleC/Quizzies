@@ -20,7 +20,7 @@ let questions = [
         answer: 1,
     },
     {
-        question: "What is the name of the main character in the Legend of Zelda series?",
+        question: "Who is the main character in the Legends of Zelda?",
         choice1: "Link",
         choice2: "Mario",
         choice3: "Samus",
