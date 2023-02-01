@@ -18,7 +18,7 @@ let questions = [
         choice3: "34",
         choice4: "327",
         answer: 2,
-        imgSrc: "./Media/animemedia/onepiece.jpeg",
+        imgSrc: "./media/animemedia/onepiece.jpeg",
     },
     {
         question: "How many chapters does Attack on Titan have?",
