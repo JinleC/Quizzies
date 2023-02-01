@@ -8,7 +8,7 @@ body {
     margin-left: 10rem;
     width: 10%;
     border-radius: 4px;
-    background: linear-gradient(90deg, rgb(181, 89, 243) 0%, rgb(178, 106, 237) 46%, rgba(234,182,237,1) 100%);
+    background: linear-gradient(90deg, rgb(190, 112, 241) 0%, rgb(178, 106, 237) 46%, rgba(234,182,237,1) 100%);
     font-size: 3rem;
     min-width: 80rem;
 }
@@ -18,7 +18,7 @@ body {
     margin-left: 10rem;
     width: 10%;
     border-radius: 4px;
-    background: linear-gradient(90deg, rgb(17, 17, 17) 0%, rgb(178, 106, 237) 46%, rgba(234,182,237,1) 100%);
+    background: linear-gradient(90deg, rgb(230, 112, 112) 0%, rgb(240, 166, 154) 46%, rgb(243, 197, 179) 100%);
     font-size: 3rem;
     min-width: 80rem;
 }
@@ -28,7 +28,7 @@ body {
     margin-left: 10rem;
     width: 10%;
     border-radius: 4px;
-    background: linear-gradient(90deg, rgb(181, 89, 243) 0%, rgb(178, 106, 237) 46%, rgba(234,182,237,1) 100%);
+    background: linear-gradient(90deg, rgb(86, 85, 86) 0%, rgb(132, 125, 138) 46%, rgb(225, 216, 225) 100%);
     font-size: 3rem;
     min-width: 80rem;
 }
