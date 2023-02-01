@@ -141,3 +141,13 @@ a, a:visited {
     margin-left: 1000px;
     margin-top: -450px;
 }
+
+img {
+    transition: 0.4s;
+    border: solid 2px;
+    border-radius: 4px;
+}
+
+img:hover {
+    opacity: 85%;
+}
