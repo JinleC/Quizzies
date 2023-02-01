@@ -18,6 +18,7 @@ let questions = [
         choice3: "34",
         choice4: "327",
         answer: 2,
+        imgSrc: "./media/nintendo.jpg",
     },
     {
         question: "How many chapters does Attack on Titan have?",
@@ -26,6 +27,7 @@ let questions = [
         choice3: "141",
         choice4: "34",
         answer: 1,
+        imgSrc: "./media/nintendo.jpg",
     },
     {
         question: "What was the most popular anime in 2018?",
@@ -34,6 +36,7 @@ let questions = [
         choice3: "JoJo Bizarre Adventure: Golden Wind",
         choice4: "A place further than the universe",
         answer: 2,
+        imgSrc: "./media/nintendo.jpg",
     },
     {
         question: "What is the name of the car the main character drives in Initial D?",
@@ -42,6 +45,7 @@ let questions = [
         choice3: "Mitsubishi Evo VI",
         choice4: "Toyota Ae86",
         answer: 4,
+        imgSrc: "./media/nintendo.jpg",
     },
     {
         question: "What is the name of Ichigo Kurosaki katana in Bleach?",
@@ -50,6 +54,7 @@ let questions = [
         choice3: "Zangetsu",
         choice4: "Nichirin",
         answer: 3,
+        imgSrc: "./media/nintendo.jpg",
     },
     {
         question: "What was Goku's name before he came to Earth as a baby?",
@@ -58,6 +63,7 @@ let questions = [
         choice3: "Saiyan",
         choice4: "Trunks",
         answer: 2,
+        imgSrc: "./media/nintendo.jpg",
     },
     {
         question: "Who has the most powerfull stand in JoJo part 3?",
@@ -66,6 +72,7 @@ let questions = [
         choice3: "Dio Brando",
         choice4: "Joseph Joestar",
         answer: 1,
+        imgSrc: "./media/nintendo.jpg",
     },
     {
         question: "Which one is not a volleyball team in Haikyuu?",
@@ -74,6 +81,7 @@ let questions = [
         choice3: "Nekoma High",
         choice4: "Inarizaki High",
         answer: 2,
+        imgSrc: "./media/nintendo.jpg",
     },
     {
         question: "What Greater Spirit takes over Shizue's body (Tensura)?",
@@ -82,6 +90,7 @@ let questions = [
         choice3: "Ifrit",
         choice4: "Charys",
         answer: 3,
+        imgSrc: "./media/nintendo.jpg",
     },
     {
         question: "What is Tanjiro's goal in Demonslayer",
@@ -90,6 +99,7 @@ let questions = [
         choice3: "To get revenge on the demons",
         choice4: "To save his sister",
         answer: 4,
+        imgSrc: "./media/nintendo.jpg",
     },
 ]
 
@@ -117,6 +127,7 @@ getNewQuestion = () => {
     const questionsIndex = Math.floor(Math.random() * availableQuestions.length)
     currentQuestion = availableQuestions[questionsIndex]
     question.innerText = currentQuestion.question
+    document.getElementById("img").src = currentQuestion.imgSrc;
 
     choices.forEach(choice => {
         const number = choice.dataset['number']
