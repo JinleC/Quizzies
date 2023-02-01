@@ -36,7 +36,7 @@ let questions = [
         answer: 2,
     },
     {
-        question: "What is the name of the car the main character drives in Initial D?",
+        question: "What is the car the main character drives in Initial D?",
         choice1: "Nissan s13",
         choice2: "Nissan 350z",
         choice3: "Mitsubishi Evo VI",
