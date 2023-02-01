@@ -120,7 +120,7 @@ a, a:visited {
 #progressBar {
     width: 150rem;
     height: 3rem;
-    border: 0.2rem solid rgb(60, 59, 59);
+    border: 0.2rem solid rgb(253, 252, 252);
     margin-top: 3rem;
     margin-left: 250px;
     border-radius: 50px;
@@ -128,7 +128,7 @@ a, a:visited {
 }
 #progressBarFull {
     height: 100%;
-    background: rgb(81, 82, 82);
+    background: rgba(255, 254, 254, 0.944);
     width: 0%;
     transition: 0.75s;
 }
