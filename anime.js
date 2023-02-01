@@ -39,7 +39,7 @@ let questions = [
         imgSrc: "./media/Anime Media/anime_mashup.jpeg",
     },
     {
-        question: "What is the car the main character drives in Initial D?",
+        question: "What is the car that the main character drives in Initial D?",
         choice1: "Nissan s13",
         choice2: "Nissan 350z",
         choice3: "Mitsubishi Evo VI",
@@ -94,7 +94,7 @@ let questions = [
     },
     {
         question: "What is Tanjiro's goal in Demon Slayer",
-        choice1: "to become a Hashira",
+        choice1: "To become a Hashira",
         choice2: "To travel the world",
         choice3: "To get revenge on the demons",
         choice4: "To save his sister",
