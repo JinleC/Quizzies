@@ -44,7 +44,7 @@ body {
 
 .choice-container:hover,.choice-container2:hover,.choice-container3:hover {
     cursor: pointer;
-    box-shadow: 0 0.4rem 1rem 0 rgba(174, 174, 179, 0.419);
+    box-shadow: 0 0.4rem 1rem 0 rgba(110, 110, 184, 0.576);
     transform: scale(1.02);
     transition: transform 100ms;
 }
@@ -95,7 +95,7 @@ body {
 #progressBar {
     width: 150rem;
     height: 3rem;
-    border: 0.2rem solid rgba(0, 128, 0, 0.419);
+    border: 0.2rem solid rgba(91, 192, 190, 1);
     margin-top: 3rem;
     margin-left: 250px;
     border-radius: 50px;
@@ -103,7 +103,7 @@ body {
 }
 #progressBarFull {
     height: 100%;
-    background: rgba(0, 128, 0, 0.262);
+    background: rgb(55, 168, 166);
     width: 0%;
 }
 @media screen and (max-width: 768px) {
