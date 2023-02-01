@@ -124,12 +124,13 @@ a, a:visited {
     margin-top: 3rem;
     margin-left: 250px;
     border-radius: 50px;
-    overflow: hidden; 
+    overflow: hidden;
 }
 #progressBarFull {
     height: 100%;
     background: rgb(55, 168, 166);
     width: 0%;
+    transition: 0.75s;
 }
 @media screen and (max-width: 768px) {
     .choice-container {
