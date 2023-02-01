@@ -94,7 +94,7 @@ let questions = [
     },
     {
         question: "What is Tanjiro's goal in Demon Slayer",
-        choice1: "to become a Hashira",
+        choice1: "To become a Hashira",
         choice2: "To travel the world",
         choice3: "To get revenge on the demons",
         choice4: "To save his sister",
