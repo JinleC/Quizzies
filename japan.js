@@ -18,7 +18,7 @@ let questions = [
         choice3: "Kyoto",
         choice4: "Nagoya",
         answer: 1,
-        imgSrc: "./media/Japan Media/map.jpg",
+        imgSrc: "./media/japanmedia/map.jpg",
     },
     {
         question: "What is not a Japanese dish?",
@@ -27,7 +27,7 @@ let questions = [
         choice3: "Bingsu",
         choice4: "Omurice",
         answer: 3,
-        imgSrc: "./media/Japan Media/food.jpg",
+        imgSrc: "./media/japanmedia/food.jpg",
     },
     {
         question: "What is the most popular sport in Japan?",
@@ -36,7 +36,7 @@ let questions = [
         choice3: "Soccer",
         choice4: "Sumo",
         answer: 2,
-        imgSrc: "./media/Japan Media/favsport.jpg",
+        imgSrc: "./media/japanmedia/favsport.jpg",
     },
     {
         question: "What is the national flower of Japan?",
@@ -45,7 +45,7 @@ let questions = [
         choice3: "Wisteria",
         choice4: "Kiku",
         answer: 1,
-        imgSrc: "./media/Japan Media/CherryBlossom.jpg",
+        imgSrc: "./media/japanmedia/cherryblossom.jpg",
     },
     {
         question: "What is the national sport of Japan?",
@@ -54,7 +54,7 @@ let questions = [
         choice3: "Judo",
         choice4: "Sumo",
         answer: 4,
-        imgSrc: "./media/Japan Media/sport.jpg",
+        imgSrc: "./media/japanmedia/sport.jpg",
     },
     {
         question: "What is not a Japanese video game?",
@@ -63,7 +63,7 @@ let questions = [
         choice3: "Genshin Impact",
         choice4: "Final Fantasy",
         answer: 3,
-        imgSrc: "./media/Japan Media/games.jpg",
+        imgSrc: "./media/japanmedia/games.jpg",
     },
     {
         question: "Who is the emperor of Japan?",
@@ -72,7 +72,7 @@ let questions = [
         choice3: "Naruhito",
         choice4: "Hirohito",
         answer: 3,
-        imgSrc: "./media/Japan Media/emperor.jpg",
+        imgSrc: "./media/japanmedia/emperor.jpg",
     },
     {
         question: "What is the population of Japan(2021)?",
@@ -81,7 +81,7 @@ let questions = [
         choice3: "128.8 million",
         choice4: "127.3 million",
         answer: 2,
-        imgSrc: "./media/Japan Media/population.jpg",
+        imgSrc: "./media/japanmedia/population.jpg",
     },
     {
         question: "Where is Japan located?",
@@ -90,7 +90,7 @@ let questions = [
         choice3: "Western Asia",
         choice4: "Northern Asia",
         answer: 1,
-        imgSrc: "./media/Japan Media/japanmap.jpg",
+        imgSrc: "./media/japanmedia/japanmap.jpg",
     },
     {
         question: "What is the currency of Japan?",
@@ -99,7 +99,7 @@ let questions = [
         choice3: "Rupee",
         choice4: "Yen",
         answer: 4,
-        imgSrc: "./media/Japan Media/currency.jpg",
+        imgSrc: "./media/japanmedia/currency.jpg",
     },
 ]
 
