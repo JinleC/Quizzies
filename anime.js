@@ -84,7 +84,7 @@ let questions = [
         imgSrc: "./media/nintendo.jpg",
     },
     {
-        question: "What Greater Spirit takes over Shizue's body (Tensura)?",
+        question: "What Greater Spirit takes over Shizue's body in Tensura?",
         choice1: "Benimaru",
         choice2: "Cromwell",
         choice3: "Ifrit",
