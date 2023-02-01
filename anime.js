@@ -60,8 +60,8 @@ let questions = [
         answer: 2,
     },
     {
-        question: "Who has the most powerfull stand in JoJo Bizarre adventure Stardust Crusaders?",
-        choice1: "Jotaro Kujo.",
+        question: "Who has the most powerfull stand in JoJo part 3?",
+        choice1: "Jotaro Kujo",
         choice2: "Muhammad Avdol",
         choice3: "Dio Brando",
         choice4: "Joseph Joestar",
